@@ -1,9 +1,0 @@
-{
-  "name": "calculadora-subredes",
-  "version": "1.0.0",
-  "description": "Calculadora de Subredes Web",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  }
-}
